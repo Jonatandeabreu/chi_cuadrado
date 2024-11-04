@@ -27,7 +27,7 @@ pip install numpy scipy matplotlib
 
 ## Uso
 1. Ejecuta la aplicación
-python chi_cuadrado.py.py
+python chi_cuadrado.py
 
 2. Ingresa los valores de éxitos y fallos para dos grupos.
 
