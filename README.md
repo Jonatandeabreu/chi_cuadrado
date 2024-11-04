@@ -24,7 +24,7 @@ source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
 4.Instala las dependencias
 pip install numpy scipy matplotlib
 
-##Uso
+## Uso
 1.Ejecuta la aplicación:
 python chi_cuadrado.py.py
 2.Ingresa los valores de éxitos y fallos para dos grupos.
