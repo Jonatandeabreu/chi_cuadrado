@@ -14,6 +14,7 @@ Este proyecto es una interfaz gráfica de usuario (GUI) para realizar pruebas de
 1. Clona el repositorio en tu máquina local:
    ```bash
    git clone https://github.com/tu_usuario/chi_cuadrado_gui.git
+   
 2. Navega al directorio del proyecto:
 cd chi_cuadrado_gui
 
@@ -25,7 +26,9 @@ source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
 pip install numpy scipy matplotlib
 
 ## Uso
-1.Ejecuta la aplicación:
+1. Ejecuta la aplicación
 python chi_cuadrado.py.py
-2.Ingresa los valores de éxitos y fallos para dos grupos.
-3.Haz clic en "Ejecutar Prueba" para obtener los resultados y ver el gráfico comparativo.
+
+2. Ingresa los valores de éxitos y fallos para dos grupos.
+
+3. Haz clic en "Ejecutar Prueba" para obtener los resultados y ver el gráfico comparativo.
